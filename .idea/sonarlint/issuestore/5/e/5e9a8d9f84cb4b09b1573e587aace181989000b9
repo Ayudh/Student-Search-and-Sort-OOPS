@@ -1,11 +1,7 @@
 
-msquid:S2095"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(•œ›üÿÿÿÿ8ôş›ÚÅ,
-gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(°Ãß‰8ó“ÚÅ,
-T
-squid:S106"9Replace this use of System.out or System.err by a logger.(ëòÆ²8ºáŞÙÅ,
-Y
-squid:S106"9Replace this use of System.out or System.err by a logger.(ñ—¸½úÿÿÿÿ8®“ĞÙÅ,
-T
-squid:S106"9Replace this use of System.out or System.err by a logger.(Øšã±8ºáŞÙÅ,
-lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Ğ°¶óüÿÿÿÿ8ôş›ÚÅ,
-lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Ğ°¶óüÿÿÿÿ8ùÿäÙÅ,
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(Øšã±8í·áüÅ,
+jsquid:S2259"LA "NullPointerException" could be thrown; "bufferedReader" is nullable here.(©§şŠ8Á÷æüÅ,
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(ëòÆ²8í·áüÅ,
+_squid:UselessImportCheck"/Remove this unused import 'java.io.FileReader'.(Â¡¢äşÿÿÿÿ8–üàüÅ,
